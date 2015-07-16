@@ -9,6 +9,6 @@ Now you can visit `localhost:4000` from your browser.
 
 I start with
 
-mix phoenix.new rest_api --no-brunch
-mix phoenix.gen.json Post posts title:string content:string
+1. `mix phoenix.new rest_api --no-brunch`
+2. `mix phoenix.gen.json Post posts title:string content:string`
 # phoenix-rest-api-test
