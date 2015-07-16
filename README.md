@@ -11,4 +11,4 @@ I start with
 
 1. `mix phoenix.new rest_api --no-brunch`
 2. `mix phoenix.gen.json Post posts title:string content:string`
-# phoenix-rest-api-test
+
